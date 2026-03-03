@@ -1,1 +1,0 @@
-# robot_framework_test_project
